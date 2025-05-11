@@ -95,12 +95,12 @@
 	<distributionManagement>
             <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name> i love you kunni</name>
 	      <url>http://13.48.49.29:8081/repository/webv2-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>u love me kunni</name>
 	      <url>http://13.48.49.29:8081/repository/webv2-snapshots/</url>
 	    </snapshotRepository>
 	    
